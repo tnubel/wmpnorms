@@ -1,16 +1,17 @@
 html {
-  background-color: #000080;
+  background-color: #0036D9;
   padding-top: 2%;
 }
 
 body {
   width: 50%;
   margin: auto;
-  background-color: #EAA21E;
+  background-color: #00FF1F;
   border: 2px solid #000000;
   padding: 5%;
   font-family: "Times New Roman", Georgia, serif;
   text-align: center;
+  color:#777777;
 }
 
 p {
