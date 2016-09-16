@@ -15,6 +15,7 @@ var norms = [
   'A sense of humor is a job requirement.',
   'Don\'t use <b>html</b> in a text-only norm.',
   'Don\'t end this array with a comma',  
+  'Branching is the best norm',
 ];
 
 function printRandomNorm() {
