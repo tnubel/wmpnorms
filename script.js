@@ -13,7 +13,8 @@ var norms = [
   'We are resourceful – it’s okay if we don’t know the answer, we’ll find it expeditiously and get back to our client.',
   'We frequently practice the “Around the Horn” tradition.',
   'A sense of humor is a job requirement.',
-  'Don\'t use <b>html</b> in a text-only norm.'
+  'Don\'t use <b>html</b> in a text-only norm.',
+  'Don\'t end this array with a comma',  
 ];
 
 function printRandomNorm() {
